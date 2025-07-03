@@ -3367,11 +3367,12 @@ html.no-csstransitions .s-hero__content {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-    position: absolute;
+    position: absolute;    
     top: var(--vspace-0_5);
     right: var(--gutter-lg);
     left: var(--gutter-lg);
     bottom: var(--vspace-1);
+    
 }
 
 /* about process */
